@@ -1,1 +1,3 @@
-docker compose -f docker-compose.dev.yml up --build
+## Development
+
+`docker compose -f docker-compose.dev.yml up --build`
